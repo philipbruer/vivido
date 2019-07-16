@@ -1,0 +1,22 @@
+{
+  "name": "crayon",
+  "author": "Philip Bruér",
+  "displayName": "Crayon",
+  "description": "A colorful theme.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crayon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crayon-theme.json"
+      }
+    ]
+  }
+}
