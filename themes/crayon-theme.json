@@ -4,20 +4,20 @@
   "colors": {
     // Integrated Terminal Colors
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors
-    "terminal.ansiBlack": "#939293",
-    "terminal.ansiBrightBlack": "#939293",
+    "terminal.ansiBlack": "#292a2b",
+    "terminal.ansiBrightBlack": "#5f6672",
     "terminal.ansiWhite": "#f9f9f9",
     "terminal.ansiBrightWhite": "#f9f9f9",
     "terminal.ansiRed": "#ff6188",
     "terminal.ansiBrightRed": "#ff6188",
-    "terminal.ansiYellow": "#fc9867",
-    "terminal.ansiBrightYellow": "#fc9867",
-    "terminal.ansiGreen": "#f7e87e",
-    "terminal.ansiBrightGreen": "#f7e87e",
+    "terminal.ansiYellow": "#f7e87e",
+    "terminal.ansiBrightYellow": "#f7e87e",
+    "terminal.ansiGreen": "#19f9d8",
+    "terminal.ansiBrightGreen": "#19f9d8",
     "terminal.ansiBlue": "#6fc1ff",
     "terminal.ansiBrightBlue": "#6fc1ff",
-    "terminal.ansiCyan": "#19f9d8",
-    "terminal.ansiBrightCyan": "#19f9d8",
+    "terminal.ansiCyan": "#fc9867",
+    "terminal.ansiBrightCyan": "#fc9867",
     "terminal.ansiMagenta": "#c594c5",
     "terminal.ansiBrightMagenta": "#c594c5",
     "terminal.border": "#30373A",
@@ -47,7 +47,7 @@
       "scope": [
         "meta.object-literal.key",
         "punctuation.section.embedded",
-        "support.type.property-name",
+        // "support.type.property-name",
         "support.variable"
       ],
       "settings": {
@@ -93,6 +93,17 @@
       }
     },
     {
+      "name": "Variables",
+      "scope": [
+        "meta.definition.variable",
+        "variable.other",
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#19f9d8"
+      }
+    },
+    {
       "name": "Functions",
       "scope": [
         "entity.name.function",
@@ -102,17 +113,6 @@
       ],
       "settings": {
         "foreground": "#6fc1ff"
-      }
-    },
-    {
-      "name": "Variables",
-      "scope": [
-        "meta.definition.variable",
-        "variable.other",
-        "variable.parameter"
-      ],
-      "settings": {
-        "foreground": "#19f9d8"
       }
     },
     {
@@ -126,6 +126,18 @@
       ],
       "settings": {
         "foreground": "#c594c5"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "entity.name.function",
+        "meta.tag.attribute",
+        "meta.function-call",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#6fc1ff"
       }
     },
     {
