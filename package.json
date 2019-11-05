@@ -1,15 +1,15 @@
 {
   "name": "crayon",
   "author": "Philip Bruér",
+  "publisher": "philipbruer",
   "displayName": "Crayon",
   "description": "A colorful theme.",
   "version": "0.1.0",
+  "repository": "github:philipbruer/crayon",
   "engines": {
     "vscode": "^1.36.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
