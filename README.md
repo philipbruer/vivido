@@ -1,6 +1,6 @@
 # Vivido Theme
 
-A theme for Visual Studio Code tailored for the Operator Mono font.
+A theme for Visual Studio Code tailored for the **Operator Mono font**.
 
 ---
 
