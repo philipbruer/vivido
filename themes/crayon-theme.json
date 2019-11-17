@@ -44,7 +44,7 @@
     "foreground": "#f9f9f9",
     "widget.shadow": "#0c1014",
     "selection.background": "#fcad83",
-    "descriptionForeground": "#f0f",
+    "descriptionForeground": "#8f98a1",
     "errorForeground": "#f0f",
     "icon.foreground": "#f9f9f9",
 
@@ -74,6 +74,13 @@
     "listFilterWidget.noMatchesOutline": "#0f0",
     "list.filterMatchBackground": "#0f0",
     "list.filterMatchBorder": "#0f0",
+
+    // [#] Welcome page
+    // https://code.visualstudio.com/api/references/theme-color#welcome-page
+    "welcomePage.background": "#272a30",
+    "welcomePage.buttonBackground": "#22252b",
+    "welcomePage.buttonHoverBackground": "#31343b",
+    "walkThrough.embeddedEditorBackground": "#22252b",
 
     // [#] Git colors
     // https://code.visualstudio.com/api/references/theme-color#git-colors
