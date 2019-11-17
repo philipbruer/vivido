@@ -1,6 +1,6 @@
 # Crayon
 
-A Operator Mono theme for Visual Studio Code.
+An Operator Mono theme for Visual Studio Code.
 
 ---
 
