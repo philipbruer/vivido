@@ -213,7 +213,7 @@
     "terminal.ansiBrightCyan": "#fcad83",
     "terminal.ansiMagenta": "#c594c5",
     "terminal.ansiBrightMagenta": "#c594c5",
-    "terminalCursor.foreground": "#c594c5",
+    "terminalCursor.foreground": "#fcad83",
 
     // [#] Activity Bar
     // https://code.visualstudio.com/api/references/theme-color#activity-bar
