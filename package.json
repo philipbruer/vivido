@@ -4,7 +4,7 @@
   "publisher": "philipbruer",
   "displayName": "Crayon Theme",
   "description": "A colorful theme for Visual Studio Code.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/philipbruer/crayon"
