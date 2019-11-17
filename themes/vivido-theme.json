@@ -148,9 +148,9 @@
 
     // [ ] Button Control
     // https://code.visualstudio.com/api/references/theme-color#button-control
-    "button.background": "#c594c5",
+    "button.background": "#ff6188",
     "button.foreground": "#fff",
-    "button.hoverBackground": "#c594c5",
+    "button.hoverBackground": "#ff6188",
     // "checkbox.background": "",
     // "checkbox.foreground": "",
     // "checkbox.border": "",
@@ -181,9 +181,11 @@
 
     // [#] Extensions
     // https://code.visualstudio.com/api/references/theme-color#extensions
-    "extensionButton.prominentBackground": "#c594c5",
+    "extensionButton.prominentBackground": "#ff6188",
     "extensionButton.prominentForeground": "#fff",
-    "extensionButton.prominentHoverBackground": "#c594c5",
+    "extensionButton.prominentHoverBackground": "#ff6188",
+    "extensionBadge.remoteBackground": "#f00",
+    "extensionBadge.remoteForeground": "#f00",
 
     // [#] Quick Picker
     // https://code.visualstudio.com/api/references/theme-color#quick-picker
