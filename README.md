@@ -1,25 +1,25 @@
-# Crayon Theme
+# Vivido Theme
 
-A theme for Visual Studio Code tailored for Operator Mono.
+A theme for Visual Studio Code tailored for the Operator Mono font.
 
 ---
 
 ## Preview
 
-![Preview](images/crayon-theme-01.png)
+![Preview](images/vivido-theme-01.png)
 
 ## Features
 
 - Dark UI elements for reducing eye strain.
-- A tiny color palette for minimal visual clutter.
+- A small color palette for minimal visual clutter.
 
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Crayon Theme`
+2. Search for `Vivido Theme`
 3. Install & reload.
-4. Open the **Command Palette** with `Ctrl + Shift + P` or `⌘ + ⇧ + p`
-5. Select **Preferences: Color Theme** and pick Crayon Theme.
+4. Press `Ctrl+Shift+P` or `⌘+⇧+p`
+5. Select **Preferences: Color Theme** and pick Vivido Theme.
 6. Enjoy!
 
 ### Syntax colors

@@ -1,14 +1,14 @@
 {
-  "name": "crayon",
+  "name": "vivido",
   "author": "Philip Bruér",
   "publisher": "philipbruer",
-  "displayName": "Crayon Theme",
+  "displayName": "Vivido Theme",
   "description": "A colorful theme for Visual Studio Code.",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philipbruer/crayon"
+    "url": "https://github.com/philipbruer/vivido"
   },
   "engines": {
     "vscode": "^1.40.1"
@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Crayon Theme",
+        "label": "Vivido Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/crayon-theme.json"
+        "path": "./themes/vivido-theme.json"
       }
     ]
   },
