@@ -1,10 +1,12 @@
-# Crayon
+# Crayon Theme
 
-An Operator Mono theme for Visual Studio Code.
-
-![Preview](images/crayon-theme-01.png)
+A theme for Visual Studio Code tailored for Operator Mono.
 
 ---
+
+## Preview
+
+![Preview](images/crayon-theme-01.png)
 
 ## Features
 
@@ -16,10 +18,9 @@ An Operator Mono theme for Visual Studio Code.
 1. Open the **Extensions** sidebar in VS Code
 2. Search for `Crayon Theme`
 3. Install & reload.
-4. `⌘ + ⇧ + p` and type "Color Theme".
-5. Open the **Command Palette** with `Ctrl + Shift + P` or `⌘ + ⇧ + p`
-6. Select **Preferences: Color Theme** and pick Crayon Theme.
-7. Enjoy!
+4. Open the **Command Palette** with `Ctrl + Shift + P` or `⌘ + ⇧ + p`
+5. Select **Preferences: Color Theme** and pick Crayon Theme.
+6. Enjoy!
 
 ### Syntax colors
 
