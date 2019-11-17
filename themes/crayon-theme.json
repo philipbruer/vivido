@@ -147,11 +147,24 @@
     "tab.inactiveBackground": "#22252b",
     "tab.inactiveModifiedBorder": "#f00",
 
-    // [#] Button Control
+    // [ ] Button Control
     // https://code.visualstudio.com/api/references/theme-color#button-control
     "button.background": "#c594c5",
     "button.foreground": "#fff",
     "button.hoverBackground": "#c594c5",
+    // "checkbox.background": "",
+    // "checkbox.foreground": "",
+    // "checkbox.border": "",
+
+    // Text colors
+    // https://code.visualstudio.com/api/references/theme-color#text-colors
+    "textBlockQuote.background": "#31343b",
+    "textBlockQuote.border": "#6fc1ff",
+    "textCodeBlock.background": "#fff",
+    "textLink.activeForeground": "#19f9d8",
+    "textLink.foreground": "#19f9d8",
+    "textPreformat.foreground": "#c594c5",
+    "textSeparator.foreground": "#ff0",
 
     // [ ] Notification colors
     // https://code.visualstudio.com/api/references/theme-color#notification-colors
