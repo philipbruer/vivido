@@ -9,8 +9,7 @@
     // #272a30 (Editor)
     // #31343b (Active, Hover)
     // - Seperator
-    // #1f2429 (Dark bg)
-    // #393f45 (Medium bg)
+    // #393f45 (Dark bg)
     // #5a6169 (Light bg)
     // - Foregrounds
     // #f9f9f9 (Active)
@@ -45,7 +44,7 @@
     "widget.shadow": "#0c1014",
     "selection.background": "#fcad83",
     "descriptionForeground": "#9ea7b0",
-    "errorForeground": "#f0f",
+    "errorForeground": "#ff6188",
     "icon.foreground": "#f9f9f9",
 
     // [#] Badge
@@ -134,7 +133,7 @@
 
     // [ ] Editor Groups & Tabs
     // https://code.visualstudio.com/api/references/theme-color#diff-editor-colors
-    "editorGroup.border": "#1f2429",
+    "editorGroup.border": "#19f9d8",
     "editorGroup.dropBackground": "#c594c521",
     "editorGroupHeader.tabsBackground": "#22252b",
     "editorGroup.emptyBackground": "#272a30",
@@ -160,7 +159,7 @@
     // https://code.visualstudio.com/api/references/theme-color#text-colors
     "textBlockQuote.background": "#31343b",
     "textBlockQuote.border": "#6fc1ff",
-    "textCodeBlock.background": "#fff",
+    "textCodeBlock.background": "#31343b",
     "textLink.activeForeground": "#19f9d8",
     "textLink.foreground": "#19f9d8",
     "textPreformat.foreground": "#c594c5",
